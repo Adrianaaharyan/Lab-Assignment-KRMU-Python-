@@ -1,0 +1,25 @@
+import os
+os.makedirs('./output', exist_ok=True)
+2025-12-02 23:04:31,967 - INFO - generated new fontManager
+2025-12-02 23:43:07,302 - INFO - Reading file: data\BuildingA_2024-01.csv
+2025-12-02 23:43:07,317 - INFO - Reading file: data\BuildingB_2024-01.csv
+2025-12-02 23:43:07,319 - INFO - CSV ingestion completed successfully
+2025-12-02 23:45:17,270 - INFO - Reading file: data\BuildingA_2024-01.csv
+2025-12-02 23:45:17,274 - INFO - Reading file: data\BuildingB_2024-01.csv
+2025-12-02 23:45:17,276 - INFO - CSV ingestion completed successfully
+2025-12-02 23:47:22,107 - INFO - Reading file: data\BuildingA_2024-01.csv
+2025-12-02 23:47:22,110 - INFO - Reading file: data\BuildingB_2024-01.csv
+2025-12-02 23:47:22,112 - INFO - CSV ingestion completed successfully
+2025-12-02 23:55:03,049 - INFO - Reading file: data\BuildingA_2024-01.csv
+2025-12-02 23:55:03,052 - INFO - Reading file: data\BuildingB_2024-01.csv
+2025-12-02 23:55:03,054 - INFO - CSV ingestion completed successfully
+2025-12-02 23:55:47,728 - INFO - Reading file: data\BuildingA_2024-01.csv
+2025-12-02 23:55:47,745 - INFO - Reading file: data\BuildingB_2024-01.csv
+2025-12-02 23:56:00,157 - INFO - Reading file: data\BuildingA_2024-01.csv
+2025-12-02 23:56:00,162 - INFO - Reading file: data\BuildingB_2024-01.csv
+2025-12-02 23:57:52,086 - INFO - Reading file: data\BuildingA_2024-01.csv
+2025-12-02 23:57:52,093 - INFO - Reading file: data\BuildingB_2024-01.csv
+2025-12-02 23:57:56,589 - INFO - Reading file: data\BuildingA_2024-01.csv
+2025-12-02 23:57:56,593 - INFO - Reading file: data\BuildingB_2024-01.csv
+2025-12-03 00:20:22,947 - INFO - Reading file: data\BuildingA_2024-01.csv
+2025-12-03 00:20:22,951 - INFO - Reading file: data\BuildingB_2024-01.csv
